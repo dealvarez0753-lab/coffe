@@ -44,7 +44,7 @@
         <h5>📱 Síguenos en redes sociales</h5>
         <p>
             Instagram: @cafeteria<br>
-            Facebook: Cafetería Aroma Colombiano
+            Facebook: Cafetería Aroma Colombiano by: Maria Chindoy y Diana Alvarez
         </p>
     </div>
 </div>
