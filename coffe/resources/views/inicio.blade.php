@@ -5,18 +5,17 @@
 @section('content')
 
 <div style="background-color:#f5e6d3; padding:30px; border-radius:10px;">
-<h1 class="text-center mb-4">Bienvenidos</h1>
+<h1 class="text-center mb-4">Bienvenidos a Galeras Coffe🌋☕</h1>
 
 <div class="row">
-    <div class="col-md-6">
-        <p>
+    <div class="col-md-12">
+        <p class="text-center">
             En nuestra cafetería cada taza cuenta una historia. Es un rincón lleno de aromas, donde el café recién preparado se mezcla con momentos de tranquilidad, conversaciones entre amigos y pequeñas pausas del día. Aquí no solo servimos café, servimos experiencias: sabores que despiertan los sentidos, postres que endulzan el momento y un ambiente acogedor que invita a quedarse un poco más. Ven y descubre el lugar donde cada sorbo inspira y cada visita se convierte en un recuerdo especial.✨
         </p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/df3JeXVWYWA?si=7qnArwBuq34wEsi0"
+         title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
-    <div class="col-md-6">
-        <img class="img-fluid rounded"
-             src="https://i.pinimg.com/originals/48/2b/cc/482bcc03ca1dfb032c0c88141400fe4e.gif">
-    </div>
+    
 </div>
 </div>
 

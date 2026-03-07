@@ -6,7 +6,7 @@
 
 <div style="background-color:#f5e6d3; padding:30px; border-radius:10px;">
 
-<h2 class="text-center mb-4">Nuestros Productos</h2>
+<h2 class="text-center mb-4">Nuestros Productos👨‍🍳</h2>
 
 <div class="row">
     <div class="col-md-4">

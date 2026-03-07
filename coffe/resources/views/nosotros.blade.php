@@ -6,7 +6,7 @@
 
 <div style="background-color:#f5e6d3; padding:30px; border-radius:10px;">
 
-<h2 class="text-center mb-4">Sobre Nosotros</h2>
+<h2 class="text-center mb-4">Sobre Nosotros✨</h2>
 
 <p class="text-center">
     Somos una empresa comprometida con la calidad ⭐ y el buen servicio 🤝, dedicada a ofrecer a nuestros clientes una experiencia única alrededor del café ☕. Trabajamos con pasión ❤️ para brindar productos frescos 🥐, sabores auténticos 🌿 y un ambiente acogedor 🪑 donde cada visita se convierta en un momento especial ✨ para compartir, relajarse y disfrutar.
